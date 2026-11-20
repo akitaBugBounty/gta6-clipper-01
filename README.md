@@ -1,5 +1,9 @@
 # gta6-clipper-01 — Clip GTA 6 for the most YouTube views
 
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/akitaBugBounty/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/akitaBugBounty/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
 A 40-second vertical (1080x1920) Short cut from Rockstar's official GTA VI
 Trailer 2, made for the make.fun $500 bounty
 https://make.fun/bounty/gta6-clipper-01
@@ -50,5 +54,4 @@ repo root to `/output/VIDEO.json`. Run locally:
 
 - Clip rendered and verified: 1080x1920, 40.0 s, audio mean −19 dB / max
   −4.5 dB, pitch visible and audible.
-- YouTube upload: BLOCKED — no connected YouTube upload access from this
-  machine (see report). `VIDEO.json` still holds the placeholder.
+- YouTube upload: DONE — public Short at https://www.youtube.com/shorts/7ht6NUS5CSs; `VIDEO.json` holds its URL.
